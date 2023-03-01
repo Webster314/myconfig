@@ -1,2 +1,2 @@
 # myconfig
-vim | bash | git | tmux configuratoin files
+vim | bash | git | tmux configuration files
